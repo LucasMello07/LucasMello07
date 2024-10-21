@@ -7,7 +7,7 @@
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMello07&show_icons=true&theme=tokyonight)
 
 ## Sobre mim
-Olá! 👋 Sou o Lucas, estudante de Ciência da Computação no Instituto Federal de São Paulo, Campus São João da Boa Vista, onde atualmente curs o 6º semestre. Aos 21 anos, tenho uma forte dedicação à tecnologia e programação, sempre buscando adquirir novas habilidades e aplicar o conhecimento em projetos práticos e inovadores.
+Olá! 👋 Sou o Lucas, estudante de Ciência da Computação no Instituto Federal de São Paulo, Campus São João da Boa Vista, onde atualmente curso o 6º semestre. Aos 21 anos, tenho uma forte dedicação à tecnologia e programação, sempre buscando adquirir novas habilidades e aplicar o conhecimento em projetos práticos e inovadores.
 
 ## Tecnologias que eu uso no meu dia
 
