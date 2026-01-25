@@ -7,7 +7,7 @@
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMello07&show_icons=true&theme=tokyonight)
 
 ## Sobre mim
-Olá! 👋 Sou o Lucas, Cientista da Computação formado pelo Instituto Federal. Atuo na intersecção entre Inteligência Artificial e Engenharia de Software, desenvolvendo soluções end-to-end que transformam a experiência do usuário. Meu trabalho foca na criação de agentes de atendimento inteligentes, automação de processos complexos e sistemas escaláveis, unindo estratégias de front-end e back-end para entregar produtos digitais fluidos, performáticos e alinhados à inovação tecnológica.
+Olá! 👋 Sou o Lucas, Cientista da Computação formado pelo Instituto Federal. Atuo na intersecção entre Inteligência Artificial e Engenharia de Software, desenvolvendo soluções end-to-end que transformam a experiência do usuário. Com foco na criação de agentes de atendimento inteligentes, automação de processos complexos e sistemas escaláveis, unindo estratégias de front-end e back-end para entregar produtos digitais fluidos, performáticos e alinhados à inovação tecnológica.
 
 ## Tecnologias que eu uso no meu dia
 
