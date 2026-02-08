@@ -4,7 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/lucasmello04)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmello07/)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMello07&show_icons=true&theme=tokyonight)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMello07&show_icons=true&theme=tokyonight&v=1)
+
 
 ## Sobre mim
 Olá! 👋 Sou o Lucas, Cientista da Computação formado pelo Instituto Federal. Atuo na intersecção entre Inteligência Artificial e Engenharia de Software, desenvolvendo soluções end-to-end que transformam a experiência do usuário. Com foco na criação de agentes de atendimento inteligentes, automação de processos complexos e sistemas escaláveis, unindo estratégias de front-end e back-end para entregar produtos digitais fluidos, performáticos e alinhados à inovação tecnológica.
